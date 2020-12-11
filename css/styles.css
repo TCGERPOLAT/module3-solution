@@ -1,9 +1,9 @@
 body {
     font-size: 16px;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Oxygen', sans-serif;
     color: #1a1a1a;
-    background-color: #599e4b;
-}
+    background-color: #a86b3d;
+}   
 
 
 /** HEADER **/
@@ -61,7 +61,7 @@ body {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #7d1913;
+    border: 1px solid #61122f;
 }
 
 
@@ -85,15 +85,15 @@ body {
 #main-content h3 {
     font-size: 1.6em;
     font-weight: bold;
-    margin-bottom: 1em;
+    margin-bottom: 20px;
 }
 
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: #99ed7b;
+    background-color: #da7c3a;
     margin-bottom: 60px;
-    box-shadow: 0 0 80px #18580b;
+    box-shadow: 0 0 20px #18580b;
 }
 
 
